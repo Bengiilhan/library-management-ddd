@@ -1,0 +1,7 @@
+database.py
+main.py
+__pycache__/
+*.pyc
+*.pyo
+env/
+.venv/
